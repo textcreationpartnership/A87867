@@ -1,0 +1,166 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>His Imperial Majesty's letter to the Pope wherein is offered his reasons why he cannot accept of any offers of peace with France / translated from the original.</title>
+            <author>Holy Roman Empire. Emperor (1658-1705 : Leopold I)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1691</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 6 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A87867</idno>
+            <idno type="STC">Wing L1111A</idno>
+            <idno type="STC">ESTC R43876</idno>
+            <idno type="EEBO-CITATION">42475962</idno>
+            <idno type="OCLC">ocm 42475962</idno>
+            <idno type="VID">151223</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A87867)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 151223)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2250:15)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>His Imperial Majesty's letter to the Pope wherein is offered his reasons why he cannot accept of any offers of peace with France / translated from the original.</title>
+                  <author>Holy Roman Empire. Emperor (1658-1705 : Leopold I)</author>
+                  <author>Catholic Church. Pope (1689-1691 : Alexander VIII)</author>
+                  <author>Leopold I. Holy Roman Emperor, (1640-1705)</author>
+               </titleStmt>
+               <extent>1 sheet ([2] p.)   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Richard Baldwin,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1691.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Dated at end: Vienna, Jan. 30, 1691.</note>
+                  <note>Original not traced.</note>
+                  <note>Reproduction of original in: William Andrews Clark Memorial Library, University of California, Los Angeles.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Grand Alliance, War of the, 1689-1697 --  Sources.</term>
+               <term>Germany --  Foreign relations --  France.</term>
+               <term>France --  Foreign relations --  Germany.</term>
+               <term>Broadsides --  London (England) --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-02</date>
+            <label>Scott Lepisto</label>Sampled and proofread</change>
+         <change>
+            <date>2009-02</date>
+            <label>Scott Lepisto</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="letter">
+            <pb facs="tcp:151223:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 26 -->
+            <head>His Imperial MAJESTY's LETTER To the POPE: WHEREIN Is offered, his Reaſons why he cannot accept of any Of<g ref="char:EOLhyphen"/>fers of Peace with <hi>France.</hi>
+            </head>
+            <head type="sub">Tranſlated from the Original.</head>
+            <opener>
+               <salute>Moſt Holy Father,</salute>
+            </opener>
+            <p>WHAT deep and ſorrowful Impreſſions the great Cala<g ref="char:EOLhyphen"/>mities and Miſeries of the preſent War, which all Chri<g ref="char:EOLhyphen"/>ſtendom groans under, have made on Your Mind, as alſo the great and ſpecial Care Your Holineſs takes to Reconcile the exaſperated Minds of all Chriſtian Princes, in order to the promoting of an Univerſal Peace, has been given Us to underſtand at large by Your Holineſs Letter, from the 8th of the laſt Month. And truly the great and increaſing Miſchiefs, attending a War that has been rais'd under ſo frivolous Pretences, moves no leſs Our than Your Ho<g ref="char:EOLhyphen"/>lineſs Fatherly Heart. Yet ſince We did not take up Arms till We were forc'd to it by an unavoidable Neceſſity, We have this Conſolation left us, that (calling God and Our Conſcience to witneſs) we are wholly free from the Cauſe of it: Beſides Your Holineſs, by a long and ſolid Experience, is ſo well acquainted with the Remoteſt Inclinations of Our Heart, that You'll eaſily conceive, that We can ſuffer nothing with more Uneaſineſs and Impatience, than to ſee the effects of Our Natural Tendency to Peace and Quietneſs, obſtructed by the Ambi<g ref="char:EOLhyphen"/>tious and Envious Endeavours of <hi>France.</hi>
+            </p>
+            <p>As yet no Obligations, Promiſes, no not the Moſt Sacred Oaths could prevail with that Crown to keep it from the breaking of the moſt Solemn Treaties as ſoon as they were made; for to paſs over all the reſt, the Chriſtian World knows it; and future Ages will relate it with Aſtoniſhment, that the Moſt Chriſtian King has cauſed himſelf to be ſeduced ſo far as to obſtruct the Glorious Courſe of Our Victo<g ref="char:EOLhyphen"/>rious Arms over the Infidels; and when we were relying on his Friend<g ref="char:EOLhyphen"/>ſhip but ſo lately renewed, and conſequently not at all ſtanding on Our Guards, to invade us upon a ſudden the ſecond time with his Hoſtile Arms, putting all to the Fire and Sword before he had ac<g ref="char:EOLhyphen"/>quainted Us with his having the cauſe for it; and indeed, all Divine and Humane Laws are Violated, rather than <hi>France</hi> ſhould let ſlip any occaſion of enlarging her Frontiers, or to hinder Us from the ſecuring of Ours, and to deprive Us and Chriſtendom of all Means to end the War with the <hi>Turks</hi> with Succeſs and Advantage.</p>
+            <pb facs="tcp:151223:2" rendition="simple:additions"/>
+            <!-- PDF PAGE 27 -->
+            <p>Thus have We been obliged by the Moſt Sacred Tye of Our high Office, by reaſon of that moſt Ignominious League between the moſt Chriſtian King, and the Sworn Enemy of the Chriſtian name, to u<g ref="char:EOLhyphen"/>nite our ſelves with Our Friends and Confederates againſt <hi>France,</hi> to the defence of Us and Our People; which Union and Confederacy is of ſo high a nature, that We can do nothing to<g ref="char:EOLhyphen"/>wards the Concluſion of a Peace without their Advice and Counſel But ſince we are wholly convinc'd that their Inclinations are no leſs tending than ours to ſuch a Peace, by which all Chriſtendom, accord<g ref="char:EOLhyphen"/>ing to the <hi>Weſphalian</hi> and <hi>Pyrenean</hi> Treaty (ſince violated by <hi>France</hi>) may be reſtor'd to its former Quietneſs and Tranquility, all will be reduced to this point, that Your Holineſs will be pleaſed to employ to the utmoſt, Your Fatherly care to prevail with the <hi>French</hi> King as the ſole Author of this War, to reſtore both the abovemention'd Treaties, which he himſelf has broke.</p>
+            <p>In caſe Your Holineſs can obtain from him theſe ſo juſt Demands, there ſhall be wanting nothing on our ſide to render effectual this ſo Holy Deſign of Your Holineſs, tending to the good of Chriſtendom, and Your proffer'd Fatherly Service for the promoting of a General Reconciliation, ſo acceptable to Us, and ſo much wiſh'd for by all the reſt of Our Confederates. This We have thought fit to reply to Your Holineſs's Letter according to Our Zeal for Your Perſon, Praying God Almighty long to preſerve Your Holineſs to the benefit of Us and the Church.</p>
+            <closer>
+               <dateline>Vienna, <date>
+                     <hi>Jan.</hi> 30. 1691.</date>
+               </dateline>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="publishers_advertisement">
+            <head>ADVERTISEMENTS.</head>
+            <p>
+               <g ref="char:dtristar">*⁎*</g> 
+               <hi>Truth brought to Light:</hi> Or the Hiſtory of the Firſt Fourteen years of King <hi>James I.</hi> In Four Parts.</p>
+            <p>
+               <hi>Bibliotheca Politica:</hi> Or a Diſcourſe by way of Dialogue, whether Monarchy be <hi>Jure Divino.</hi> Collected out of the moſt approved Authors, both An<g ref="char:EOLhyphen"/>tient and Modern. Dialogue the Firſt. <hi>The Second is now in the Preſs, which Treats,</hi> Whether there can be made out from the Natural or Revealed Law of God, any Succeſſion of Crowns by Divine Right. <hi>And will be Publiſhed in few Days.</hi>
+            </p>
+            <p>
+               <hi>Utrum Horum:</hi> Or, God's Ways of diſpoſing Kingdoms: and ſome Clergy-Mens Ways of diſpoſing of Them.</p>
+            <p>The <hi>Devout Chriſtian</hi>'s Preparation for holy Dying. Conſiſting of Ejacula<g ref="char:EOLhyphen"/>tions, Prayers, Meditations and Hymns, adapted to the ſeveral States and Conditions of this Life, and on the four laſt Things, <hi>viz. Death, Judgment, Heaven,</hi> and <hi>Hell.</hi>
+            </p>
+            <p>A New, Plain, Short, and Compleat <hi>French</hi> and <hi>Engliſh Grammar;</hi> where<g ref="char:EOLhyphen"/>by the Learner may attain in few Months to Speak and Write <hi>French</hi> Correctly, as they do now in the Court of <hi>France.</hi> And wherein all that is Dark, Superfluous, and Deficient in others <hi>Grammars,</hi> is Plain, Short, and Methodically ſupplied. Alſo very uſeful to Strangers, that are deſirous to learn the <hi>Engliſh</hi> Tongue: For whoſe ſake is added a Short, but very Exact <hi>Engliſh Grammar.</hi> The Second Edition. By <hi>Peter Berault.</hi>
+            </p>
+            <p>
+               <hi>Sold by</hi> Richard Baldwin.</p>
+         </div>
+         <div type="colophon">
+            <p>
+               <hi>LONDON:</hi> Printed for <hi>Richard Baldwin.</hi> 1691.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
